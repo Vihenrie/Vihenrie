@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffd2&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Vinicius+Henrique;I'm+17+years+old;I'm+from+Brasil,+SP;I+study+systems+development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffd2&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Vinicius+Henrique;I'm+19+years+old;I'm+from+Brasil,+SP;I+study+systems+development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
